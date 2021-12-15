@@ -18,7 +18,5 @@ public class Clothes {
         this.quantity = quantity;
 
     }
-
-
 }
 
